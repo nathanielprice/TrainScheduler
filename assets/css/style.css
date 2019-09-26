@@ -1,0 +1,47 @@
+
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color:grey;
+	/* Find light color of success panel */
+	color: white;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+body {
+    width: 100%;
+    height: auto;
+    background: lightgrey   
+  }
+
+.panel-body {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 15px;
+}
+.panel-heading{
+	padding-top: 0.25%;
+}
+
+
+.row {
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.row > div {
+    background: white;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.thead-light {
+    border-radius: 10px;
+}
+h3 {
+    color: darkgrey;
+}
